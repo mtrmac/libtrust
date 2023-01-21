@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/docker/libtrust"
+	"github.com/containers/libtrust"
 )
 
 var (

@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/docker/libtrust"
-	"github.com/docker/libtrust/testutil"
+	"github.com/containers/libtrust"
+	"github.com/containers/libtrust/testutil"
 )
 
 const testStatementExpiration = time.Hour * 5

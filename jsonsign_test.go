@@ -9,7 +9,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/docker/libtrust/testutil"
+	"github.com/containers/libtrust/testutil"
 )
 
 func createTestJSON(sigKey string, indent string) (map[string]interface{}, []byte) {

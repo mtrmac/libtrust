@@ -8,7 +8,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/docker/libtrust"
+	"github.com/containers/libtrust"
 )
 
 var (
