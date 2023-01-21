@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/docker/libtrust"
+	"github.com/containers/libtrust"
 )
 
 func createTestKeysAndGrants(count int) ([]*Grant, []libtrust.PrivateKey) {

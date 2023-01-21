@@ -1,6 +1,6 @@
 package trustgraph
 
-import "github.com/docker/libtrust"
+import "github.com/containers/libtrust"
 
 // TrustGraph represents a graph of authorization mapping
 // public keys to nodes and grants between nodes.
